@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Estela Vitória Cândido Ribeiro</Text>
+      <Text>Berdine Galvão Alves Nogueira</Text>
       <StatusBar style="auto" />
     </View>
   );
